@@ -2,8 +2,6 @@
 
 namespace App\Model\Entity;
 
-use App\Config;
-
 /**
  * ユーザエンティティ
  */
